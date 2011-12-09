@@ -1,0 +1,9 @@
+name: PartyMusic
+version: 0.1.0
+main: com.bendude56.partymusic.PartyMusic
+author: ben_dude56
+depend: [Spout, BenCmd]
+commands:
+    music:
+        usage:
+        description: Sets the music playing
